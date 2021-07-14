@@ -13,10 +13,10 @@ import scala.collection.mutable.Set
 val users : Set[String] = Set("Mark")
 take_name()
 display_month()
+options()
 
 
-def take_name(): String =
-{
+def take_name(): String = {
       val line1 =
       """
       ----------------------------------
@@ -24,7 +24,7 @@ def take_name(): String =
        Enter Name for Calendar Access: 
       ----------------------------------
       """
-      
+      print("\033c") 
       println(line1)
       
 
@@ -40,14 +40,12 @@ def take_name(): String =
       }
       return name
 }
-
-
-def display_month() =
-  {
+def display_month() = {
   val month = Calendar.getInstance.get(Calendar.MONTH)
   val m = Array("January","February","March","April","May","June","July","August","September","October","November","December")
 
   val m1 = m(month)
+  print("\033c") 
   println("---------------------------")
   println(s"           $m1")
   println("---------------------------")
@@ -65,9 +63,18 @@ def display_month() =
  println("---------------------------")
  println()
 }
-
+def options() =
+{
+print("Enter 1-5 for Week View:")
+val week = readLine()
+if (week == 1){display_week()}
 }
-
-
-
+def display_week()
+{
+  print("Week View")
+  println("|  SUN  |     |  MON  |     |  TUE  |     |  WED  |     |  THU  |     |  FRI  |")
+  println("--------------------------------------------------------------------------------")
+  println()
+}
+}
 }

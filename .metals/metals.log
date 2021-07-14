@@ -41051,3 +41051,323 @@ No more data in the client stdin, exiting...
 No more data in the server stdin, exiting...
 No more data in the client stdin, exiting...
 No more data in the server stdin, exiting...
+[0m2021.07.14 12:41:42 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\Mark\Desktop\Project P0' for client Visual Studio Code 1.58.1.[0m
+[0m2021.07.14 12:41:43 INFO  time: initialize in 1.26s[0m
+[0m2021.07.14 12:41:43 INFO  Attempting to connect to the build server...[0m
+[0m2021.07.14 12:41:43 WARN  no build target for: C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala[0m
+[0m2021.07.14 12:41:43 INFO  skipping build import with status 'Installed'[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 22623'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:22623...
+The server is listening for incoming connections at tcp://127.0.0.1:22623...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.07.14 12:41:45 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Mark\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.07.14 12:41:45 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 44191'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:44191...
+The server is listening for incoming connections at tcp://127.0.0.1:44191...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.07.14 12:41:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Mark\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.07.14 12:41:46 INFO  time: Connected to build server in 3.01s[0m
+[0m2021.07.14 12:41:46 INFO  Connected to Build server: Bloop v1.4.8-19-4d9f966b[0m
+[0m2021.07.14 12:41:47 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
+[0m2021.07.14 12:41:48 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
+[0m2021.07.14 12:41:49 INFO  time: code lens generation in 5.95s[0m
+[0m2021.07.14 12:41:49 INFO  time: code lens generation in 1.96s[0m
+[0m2021.07.14 12:41:49 INFO  time: code lens generation in 2.24s[0m
+[0m2021.07.14 12:41:57 INFO  time: indexed workspace in 10s[0m
+[0m2021.07.14 12:42:33 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 12:42:34 INFO  time: compiled project-p0 in 1.13s[0m
+[0m2021.07.14 12:47:58 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 12:47:58 INFO  time: compiled project-p0 in 0.31s[0m
+[0m2021.07.14 12:48:05 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 12:48:05 INFO  time: compiled project-p0 in 0.2s[0m
+[0m2021.07.14 12:53:26 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:49:11: stale bloop error: (String, String, String, String, String, String, String, String, String, String, String, String) does not take parameters
+  println(month_str(month))
+          ^^^^^^^^^^^^^^^^[0m
+[0m2021.07.14 12:53:26 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:49:11: stale bloop error: (String, String, String, String, String, String, String, String, String, String, String, String) does not take parameters
+  println(month_str(month))
+          ^^^^^^^^^^^^^^^^[0m
+[0m2021.07.14 12:53:40 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:49:11: stale bloop error: (String, String, String, String, String, String, String, String, String, String, String, String) does not take parameters
+  println(month_str(month))
+          ^^^^^^^^^^^^^^^^[0m
+[0m2021.07.14 12:53:40 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:49:11: stale bloop error: (String, String, String, String, String, String, String, String, String, String, String, String) does not take parameters
+  println(month_str(month))
+          ^^^^^^^^^^^^^^^^[0m
+[0m2021.07.14 12:59:57 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:49:11: stale bloop error: (String, String, String, String, String, String, String, String, String, String, String, String) does not take parameters
+  println(month_str(month))
+          ^^^^^^^^^^^^^^^^[0m
+[0m2021.07.14 12:59:57 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:49:11: stale bloop error: (String, String, String, String, String, String, String, String, String, String, String, String) does not take parameters
+  println(month_str(month))
+          ^^^^^^^^^^^^^^^^[0m
+[0m2021.07.14 12:59:57 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:49:11: stale bloop error: (String, String, String, String, String, String, String, String, String, String, String, String) does not take parameters
+  println(month_str(month))
+          ^^^^^^^^^^^^^^^^[0m
+[0m2021.07.14 12:59:57 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:49:11: stale bloop error: (String, String, String, String, String, String, String, String, String, String, String, String) does not take parameters
+  println(month_str(month))
+          ^^^^^^^^^^^^^^^^[0m
+[0m2021.07.14 13:01:03 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:01:03 INFO  time: compiled project-p0 in 0.79s[0m
+Jul 14, 2021 1:01:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1184
+Jul 14, 2021 1:01:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1186
+Jul 14, 2021 1:01:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1183
+[0m2021.07.14 13:01:54 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:01:54 INFO  time: compiled project-p0 in 0.98s[0m
+[0m2021.07.14 13:02:48 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:02:48 INFO  time: compiled project-p0 in 0.12s[0m
+[0m2021.07.14 13:03:26 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:03:26 INFO  time: compiled project-p0 in 0.19s[0m
+[0m2021.07.14 13:03:40 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:03:40 INFO  time: compiled project-p0 in 0.18s[0m
+[0m2021.07.14 13:04:17 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:04:17 INFO  time: compiled project-p0 in 0.78s[0m
+[0m2021.07.14 13:04:25 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:04:25 INFO  time: compiled project-p0 in 0.16s[0m
+[0m2021.07.14 13:04:58 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:04:58 INFO  time: compiled project-p0 in 0.17s[0m
+[0m2021.07.14 13:06:54 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:06:54 INFO  time: compiled project-p0 in 0.19s[0m
+something's wrong: no file:///C:/Users/Mark/Desktop/Project%20P0/src/main/scala/ProjectP0.scala in Array[String]RangePosition(file:///C:/Users/Mark/Desktop/Project%20P0/src/main/scala/ProjectP0.scala, 810, 810, 823)
+something's wrong: no file:///C:/Users/Mark/Desktop/Project%20P0/src/main/scala/ProjectP0.scala in Array[String]RangePosition(file:///C:/Users/Mark/Desktop/Project%20P0/src/main/scala/ProjectP0.scala, 810, 810, 823)
+[0m2021.07.14 13:08:03 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:08:03 INFO  time: compiled project-p0 in 0.95s[0m
+[0m2021.07.14 13:08:08 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:08:08 INFO  time: compiled project-p0 in 0.18s[0m
+[0m2021.07.14 13:08:17 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:08:17 INFO  time: compiled project-p0 in 0.66s[0m
+[0m2021.07.14 13:08:24 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:08:24 INFO  time: compiled project-p0 in 0.73s[0m
+[0m2021.07.14 13:08:34 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:08:34 INFO  time: compiled project-p0 in 0.66s[0m
+[0m2021.07.14 13:10:27 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:10:27 INFO  time: compiled project-p0 in 0.12s[0m
+[0m2021.07.14 13:10:49 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:10:49 INFO  time: compiled project-p0 in 0.11s[0m
+[0m2021.07.14 13:10:51 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:10:51 INFO  time: compiled project-p0 in 0.11s[0m
+[0m2021.07.14 13:10:54 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:49:24: stale bloop error: ')' expected but integer literal found.
+  val week1 = Array(1  2  3  4  5  6  7)
+                       ^[0m
+[0m2021.07.14 13:10:54 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:49:24: stale bloop error: ')' expected but integer literal found.
+  val week1 = Array(1  2  3  4  5  6  7)
+                       ^[0m
+[0m2021.07.14 13:10:57 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:49:24: stale bloop error: ')' expected but integer literal found.
+  val week1 = Array(1  2  3  4  5  6  7)
+                       ^[0m
+[0m2021.07.14 13:10:57 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:49:24: stale bloop error: ')' expected but integer literal found.
+  val week1 = Array(1  2  3  4  5  6  7)
+                       ^[0m
+[0m2021.07.14 13:10:59 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:49:24: stale bloop error: ')' expected but integer literal found.
+  val week1 = Array(1  2  3  4  5  6  7)
+                       ^[0m
+[0m2021.07.14 13:10:59 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:49:24: stale bloop error: ')' expected but integer literal found.
+  val week1 = Array(1  2  3  4  5  6  7)
+                       ^[0m
+[0m2021.07.14 13:11:02 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:11:02 INFO  time: compiled project-p0 in 0.11s[0m
+[0m2021.07.14 13:11:03 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:49:26: stale bloop error: ')' expected but string literal found.
+  val week1 = Array("1"  "2"  "3"  4  5  6  7)
+                         ^[0m
+[0m2021.07.14 13:11:03 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:49:26: stale bloop error: ')' expected but string literal found.
+  val week1 = Array("1"  "2"  "3"  4  5  6  7)
+                         ^[0m
+[0m2021.07.14 13:11:11 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:11:11 INFO  time: compiled project-p0 in 0.11s[0m
+[0m2021.07.14 13:11:30 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:49:26: stale bloop error: ')' expected but string literal found.
+  val week1 = Array("1"  "2"  "3"  "4"  5  6  7)
+                         ^[0m
+[0m2021.07.14 13:11:30 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:49:26: stale bloop error: ')' expected but string literal found.
+  val week1 = Array("1"  "2"  "3"  "4"  5  6  7)
+                         ^[0m
+[0m2021.07.14 13:11:33 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:49:26: stale bloop error: ')' expected but string literal found.
+  val week1 = Array("1"  "2"  "3"  "4"  5  6  7)
+                         ^[0m
+[0m2021.07.14 13:11:33 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:49:26: stale bloop error: ')' expected but string literal found.
+  val week1 = Array("1"  "2"  "3"  "4"  5  6  7)
+                         ^[0m
+[0m2021.07.14 13:11:35 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:49:26: stale bloop error: ')' expected but string literal found.
+  val week1 = Array("1"  "2"  "3"  "4"  5  6  7)
+                         ^[0m
+[0m2021.07.14 13:11:35 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:49:26: stale bloop error: ')' expected but string literal found.
+  val week1 = Array("1"  "2"  "3"  "4"  5  6  7)
+                         ^[0m
+[0m2021.07.14 13:11:46 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:11:46 INFO  time: compiled project-p0 in 0.63s[0m
+[0m2021.07.14 13:11:54 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:11:54 INFO  time: compiled project-p0 in 0.12s[0m
+Jul 14, 2021 1:13:41 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 930, count -1, length 1008
+[0m2021.07.14 13:13:47 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:13:47 INFO  time: compiled project-p0 in 0.63s[0m
+[0m2021.07.14 13:16:53 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:16:53 INFO  time: compiled project-p0 in 0.18s[0m
+[0m2021.07.14 13:18:09 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:18:09 INFO  time: compiled project-p0 in 0.17s[0m
+[0m2021.07.14 13:18:41 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:18:41 INFO  time: compiled project-p0 in 0.18s[0m
+[0m2021.07.14 13:18:53 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:18:54 INFO  time: compiled project-p0 in 1.02s[0m
+[0m2021.07.14 13:19:02 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:19:02 INFO  time: compiled project-p0 in 0.72s[0m
+[0m2021.07.14 13:21:02 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:21:02 INFO  time: compiled project-p0 in 0.17s[0m
+[0m2021.07.14 13:21:13 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:21:13 INFO  time: compiled project-p0 in 0.73s[0m
+[0m2021.07.14 13:22:03 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:22:03 INFO  time: compiled project-p0 in 0.89s[0m
+[0m2021.07.14 13:27:23 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:27:23 INFO  time: compiled project-p0 in 0.19s[0m
+[0m2021.07.14 13:27:41 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:27:41 INFO  time: compiled project-p0 in 0.16s[0m
+[0m2021.07.14 13:28:22 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:28:22 INFO  time: compiled project-p0 in 0.17s[0m
+[0m2021.07.14 13:28:24 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:28:24 INFO  time: compiled project-p0 in 0.16s[0m
+[0m2021.07.14 13:28:46 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:28:46 INFO  time: compiled project-p0 in 0.17s[0m
+[0m2021.07.14 13:29:53 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:29:53 INFO  time: compiled project-p0 in 0.17s[0m
+[0m2021.07.14 13:30:02 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:30:02 INFO  time: compiled project-p0 in 0.7s[0m
+[0m2021.07.14 13:41:30 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:41:30 INFO  time: compiled project-p0 in 0.18s[0m
+[0m2021.07.14 13:41:38 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:41:38 INFO  time: compiled project-p0 in 0.2s[0m
+[0m2021.07.14 13:42:16 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:42:16 INFO  time: compiled project-p0 in 0.17s[0m
+[0m2021.07.14 13:43:48 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:43:48 INFO  time: compiled project-p0 in 0.18s[0m
+[0m2021.07.14 13:43:53 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:43:53 INFO  time: compiled project-p0 in 0.92s[0m
+[0m2021.07.14 13:54:49 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:54:49 INFO  time: compiled project-p0 in 0.26s[0m
+[0m2021.07.14 13:54:57 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:54:57 INFO  time: compiled project-p0 in 0.67s[0m
+[0m2021.07.14 13:55:29 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:55:29 INFO  time: compiled project-p0 in 0.67s[0m
+[0m2021.07.14 13:55:47 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:55:47 INFO  time: compiled project-p0 in 0.83s[0m
+[0m2021.07.14 13:56:30 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:56:30 INFO  time: compiled project-p0 in 0.65s[0m
+[0m2021.07.14 13:57:05 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:57:05 INFO  time: compiled project-p0 in 0.27s[0m
+[0m2021.07.14 13:57:08 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:57:08 INFO  time: compiled project-p0 in 0.14s[0m
+[0m2021.07.14 13:57:11 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:52:11: stale bloop error: not found: value ----------------------
+  println(----------------------)
+          ^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.07.14 13:57:11 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:52:11: stale bloop error: not found: value ----------------------
+  println(----------------------)
+          ^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m2021.07.14 13:57:16 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:57:16 INFO  time: compiled project-p0 in 0.66s[0m
+[0m2021.07.14 13:57:26 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:57:26 INFO  time: compiled project-p0 in 0.67s[0m
+[0m2021.07.14 13:57:48 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:57:48 INFO  time: compiled project-p0 in 0.64s[0m
+[0m2021.07.14 13:58:56 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:58:56 INFO  time: compiled project-p0 in 0.63s[0m
+Jul 14, 2021 1:58:58 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 1378, count -1, length 1405
+[0m2021.07.14 13:59:13 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 13:59:13 INFO  time: compiled project-p0 in 0.84s[0m
+[0m2021.07.14 14:02:35 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 14:02:35 INFO  time: compiled project-p0 in 0.14s[0m
+[0m2021.07.14 14:02:41 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 14:02:41 INFO  time: compiled project-p0 in 0.15s[0m
+[0m2021.07.14 14:04:35 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 14:04:35 INFO  time: compiled project-p0 in 0.16s[0m
+[0m2021.07.14 14:04:44 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 14:04:44 INFO  time: compiled project-p0 in 0.14s[0m
+[0m2021.07.14 14:05:35 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 14:05:35 INFO  time: compiled project-p0 in 0.15s[0m
+[0m2021.07.14 14:06:57 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 14:06:57 INFO  time: compiled project-p0 in 0.65s[0m
+Jul 14, 2021 2:09:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 14, 2021 2:10:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "git:/c%3A/Users/Mark/Desktop/Project%20P0/src/main/scala/Hello_World.scala?%7B%22path%22%3A%22c%3A%5C%5CUsers%5C%5CMark%5C%5CDesktop%5C%5CProject%20P0%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5CHello_World.scala%22%2C%22ref%22%3A%22%22%7D"
+  ]
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.FileSystemNotFoundException: Provider "git" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:97)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:481)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:478)
+	at scala.meta.internal.metals.MetalsLanguageServer.didFocus(MetalsLanguageServer.scala:1016)
+	... 16 more
+
+[0m2021.07.14 14:22:38 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 14:22:38 INFO  time: compiled project-p0 in 0.64s[0m
+Jul 14, 2021 2:24:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 14, 2021 2:25:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "git:/c%3A/Users/Mark/Desktop/Project%20P0/src/main/scala/Hello_World.scala?%7B%22path%22%3A%22c%3A%5C%5CUsers%5C%5CMark%5C%5CDesktop%5C%5CProject%20P0%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5CHello_World.scala%22%2C%22ref%22%3A%22HEAD%22%7D"
+  ]
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.FileSystemNotFoundException: Provider "git" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:97)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:481)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:478)
+	at scala.meta.internal.metals.MetalsLanguageServer.didFocus(MetalsLanguageServer.scala:1016)
+	... 16 more
+
