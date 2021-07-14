@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:54:18: not found: value date[0m
+[0m[[0m[31merror[0m] [0m[0m  var max_days = date.lengthOfMonth() //(Calendar.DAY_OF_MONTH)[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -1,0 +1,20 @@
+1626288006899:~run
+1626288170501:~
+1626288172812:~run
+1626290355333:~
+1626290357938:~run
+1626290480937:M
+1626290485548:~run
+1626292672193:s
+1626292676644:~run
+1626293565668:git add README.md
+1626293565716:git commit -m "first commit"
+1626293565742:git branch -M main
+1626293565782:git remote add origin https://github.com/mtorres1127/ProjectP0.git
+1626293566564:git push -u origin mainecho "# ProjectP0" >> README.md
+1626293566582:git init
+1626293566606:git add README.md
+1626293566630:git commit -m "first commit"
+1626293566653:git branch -M main
+1626293566683:git remote add origin https://github.com/mtorres1127/ProjectP0.git
+1626293568653:git push -u origin main
