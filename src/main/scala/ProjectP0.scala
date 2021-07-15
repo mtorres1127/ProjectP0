@@ -17,15 +17,11 @@ options()
 
 
 def take_name(): String = {
-      val line1 =
-      """
-      ----------------------------------
-                 Welcome! 
-       Enter Name for Calendar Access: 
-      ----------------------------------
-      """
-      print("\033c") 
-      println(line1)
+  print("\033c") 
+      println("----------------------------------")
+      println(" Enter Name for Calendar Access: ")
+      println("----------------------------------")
+      
       
 
      val name = scala.io.StdIn.readLine()
@@ -38,9 +34,14 @@ def take_name(): String = {
       {
         println("New Name")
       }
+      println()
+      println("<Press Enter For Month View>")
+      val check = scala.io.StdIn.readLine()
+      print("\033c") 
       return name
 }
 def display_month() = {
+  print("\033c") 
   val month = Calendar.getInstance.get(Calendar.MONTH)
   val m = Array("January","February","March","April","May","June","July","August","September","October","November","December")
 
@@ -68,13 +69,15 @@ def options() =
 print("Enter 1-5 for Week View:")
 val week = readLine()
 if (week == 1){display_week()}
+else {display_week()}
 }
 def display_week()
 {
-  print("Week View")
+  println("Week View")
   println("|  SUN  |     |  MON  |     |  TUE  |     |  WED  |     |  THU  |     |  FRI  |")
   println("--------------------------------------------------------------------------------")
   println()
+
 }
 }
 }

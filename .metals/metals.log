@@ -41454,3 +41454,1001 @@ Caused by: java.lang.IllegalArgumentException: 74 is not a valid line number, al
 [0m2021.07.14 14:49:28 INFO  compiling project-p0 (1 scala source)[0m
 [0m2021.07.14 14:49:28 WARN  three deprecations (since 2.11.0); re-run with -deprecation for details[0m
 [0m2021.07.14 14:49:28 INFO  time: compiled project-p0 in 0.74s[0m
+[0m2021.07.14 14:59:30 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 14:59:30 WARN  three deprecations (since 2.11.0); re-run with -deprecation for details[0m
+[0m2021.07.14 14:59:30 INFO  time: compiled project-p0 in 0.68s[0m
+[0m2021.07.14 16:39:36 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 16:39:38 WARN  three deprecations (since 2.11.0); re-run with -deprecation for details[0m
+[0m2021.07.14 16:39:38 INFO  time: compiled project-p0 in 1.57s[0m
+[0m2021.07.14 16:43:18 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 16:43:19 WARN  two deprecations (since 2.11.0); re-run with -deprecation for details[0m
+[0m2021.07.14 16:43:19 INFO  time: compiled project-p0 in 1.65s[0m
+Jul 14, 2021 5:02:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6479
+Jul 14, 2021 5:02:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6481
+Jul 14, 2021 5:02:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6478
+Jul 14, 2021 5:02:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6480
+Jul 14, 2021 5:02:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6482
+Jul 14, 2021 5:02:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6484
+Jul 14, 2021 5:02:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6486
+Jul 14, 2021 5:02:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6488
+Jul 14, 2021 5:02:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6492
+Jul 14, 2021 5:02:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6490
+[0m2021.07.14 17:02:19 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 17:02:19 INFO  time: compiled project-p0 in 0.23s[0m
+[0m2021.07.14 17:03:03 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 17:03:03 INFO  time: compiled project-p0 in 0.25s[0m
+[0m2021.07.14 17:03:34 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 17:03:34 WARN  two deprecations (since 2.11.0); re-run with -deprecation for details[0m
+[0m2021.07.14 17:03:34 INFO  time: compiled project-p0 in 0.96s[0m
+[0m2021.07.14 17:03:56 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 17:03:57 WARN  two deprecations (since 2.11.0); re-run with -deprecation for details[0m
+[0m2021.07.14 17:03:57 INFO  time: compiled project-p0 in 1.32s[0m
+[0m2021.07.14 17:04:51 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 17:04:52 WARN  two deprecations (since 2.11.0); re-run with -deprecation for details[0m
+[0m2021.07.14 17:04:52 INFO  time: compiled project-p0 in 1.2s[0m
+[0m2021.07.14 17:05:15 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 17:05:15 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:15 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:15 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:15 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:15 INFO  time: compiled project-p0 in 0.17s[0m
+[0m2021.07.14 17:05:30 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:30 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:30 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:30 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:30 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:30 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:30 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:30 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:30 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:31 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:31 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:31 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:36 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:36 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:36 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:36 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:36 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:36 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:36 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:36 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:36 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:37 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:37 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:37 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:37 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:37 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:37 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:37 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:37 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:37 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:37 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:37 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:37 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:38 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:38 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:38 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:38 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:38 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:38 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:38 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:38 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:38 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:38 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:38 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:38 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:42 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:42 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:42 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:42 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:42 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:42 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:45 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:45 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:45 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:45 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:45 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:45 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:45 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:45 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:45 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:45 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:45 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:45 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:45 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:45 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:45 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:45 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:45 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:45 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:47 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:47 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:47 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:47 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:47 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:47 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:49 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:49 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:49 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:49 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:49 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:49 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:51 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:51 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:51 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:51 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:51 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:51 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:51 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:51 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:51 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:51 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:51 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:51 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:51 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:51 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:51 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:51 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:51 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:51 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:51 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:51 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:51 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:52 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:52 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:52 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:52 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:52 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:52 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:52 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:52 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:52 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:54 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:54 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:54 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:54 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:54 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:54 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:56 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:56 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:56 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:56 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:56 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:56 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:58 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:58 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:58 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:58 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:58 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:58 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:59 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:59 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:59 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:05:59 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:59 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:05:59 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:02 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:02 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:02 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:02 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:02 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:02 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:02 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:02 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:02 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:03 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:03 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:03 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:04 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:04 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:04 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:04 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:04 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:04 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:04 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:04 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:04 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:04 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:04 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:04 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:05 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:05 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:05 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:05 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:05 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:05 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:05 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:05 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:05 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:06 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:06 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:06 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:09 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:09 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:09 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:09 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:09 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:09 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:12 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:12 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:12 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:12 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:12 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:12 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:12 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:12 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:12 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:12 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:12 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:12 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:16 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:16 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:16 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:16 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:16 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:16 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:16 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:16 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:16 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:16 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:16 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:16 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:16 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:16 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:16 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:16 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:16 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:16 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:17 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:17 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:17 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:17 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:17 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:17 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:17 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:17 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:17 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:17 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:17 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:17 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:18 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:18 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:18 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:18 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:18 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:18 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:20 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:20 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:20 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:20 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:20 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:20 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:22 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:22 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:22 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:22 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:22 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:22 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:24 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:24 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:24 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:24 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:24 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:24 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:24 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:24 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:24 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:24 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:24 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:24 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:28 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:28 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:28 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:28 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:28 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:28 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:29 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:29 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:29 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:29 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:29 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:29 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:29 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:29 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:29 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:29 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:29 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:29 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+Jul 14, 2021 5:06:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21: error: unclosed string literal
+      "
+      ^
+java.util.concurrent.CompletionException: C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21: error: unclosed string literal
+      "
+      ^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21: error: unclosed string literal
+      "
+      ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:655)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:442)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:446)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:251)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptBalancedDelimeters(ScalaToplevelMtags.scala:274)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:50)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:19)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:40)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:96)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:214)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:175)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:175)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:170)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:33)
+	at scala.collection.immutable.List.map(List.scala:293)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:29)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1339)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+[0m2021.07.14 17:06:32 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:32 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:32 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:32 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:32 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:32 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:39 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:39 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:39 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:39 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:39 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:39 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:39 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:39 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:39 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:41 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:41 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:41 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:41 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:21:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:41 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:26:7: stale bloop error: unclosed string literal
+      "
+      ^[0m
+[0m2021.07.14 17:06:41 INFO  C:\Users\Mark\Desktop\Project P0\src\main\scala\ProjectP0.scala:24:19: stale bloop error: illegal start of simple expression
+       Enter Name for Calendar Access: 
+                  ^[0m
+[0m2021.07.14 17:06:43 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 17:06:45 WARN  three deprecations (since 2.11.0); re-run with -deprecation for details[0m
+[0m2021.07.14 17:06:45 INFO  time: compiled project-p0 in 1.1s[0m
+[0m2021.07.14 17:07:23 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 17:07:24 WARN  three deprecations (since 2.11.0); re-run with -deprecation for details[0m
+[0m2021.07.14 17:07:24 INFO  time: compiled project-p0 in 1.24s[0m
+[0m2021.07.14 17:07:45 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 17:07:46 WARN  three deprecations (since 2.11.0); re-run with -deprecation for details[0m
+[0m2021.07.14 17:07:46 INFO  time: compiled project-p0 in 1.06s[0m
+[0m2021.07.14 17:16:52 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 17:16:53 WARN  three deprecations (since 2.11.0); re-run with -deprecation for details[0m
+[0m2021.07.14 17:16:53 INFO  time: compiled project-p0 in 1.31s[0m
+[0m2021.07.14 17:17:33 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 17:17:34 WARN  four deprecations (since 2.11.0); re-run with -deprecation for details[0m
+[0m2021.07.14 17:17:34 INFO  time: compiled project-p0 in 1.23s[0m
+[0m2021.07.14 17:18:12 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 17:18:13 WARN  5 deprecations (since 2.11.0); re-run with -deprecation for details[0m
+[0m2021.07.14 17:18:13 INFO  time: compiled project-p0 in 1.36s[0m
+[0m2021.07.14 17:18:54 INFO  compiling project-p0 (1 scala source)[0m
+[0m2021.07.14 17:18:56 WARN  5 deprecations (since 2.11.0); re-run with -deprecation for details[0m
+[0m2021.07.14 17:18:56 INFO  time: compiled project-p0 in 1.19s[0m

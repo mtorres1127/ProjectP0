@@ -1,4 +1,4 @@
-[debug] [project-p0-build] Classpath dependencies List()
-[debug] [project-p0-build] Dependencies from configurations List()
-[debug] Bloop wrote the configuration of project 'project-p0-build' to 'C:\Users\Mark\Desktop\Project P0\project\.bloop\project-p0-build.json'
-[success] Generated .bloop\project-p0-build.json
+[0m[[0m[0mdebug[0m] [0m[0m[project-p0-build] Classpath dependencies List()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[project-p0-build] Dependencies from configurations List()[0m
+[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'project-p0-build' to 'C:\Users\Mark\Desktop\Project P0\project\.bloop\project-p0-build.json'[0m
+[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop\project-p0-build.json[0m
